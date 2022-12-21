@@ -288,3 +288,200 @@ span.legend-icon {
 .ladder form, .ladder div {
   display: block;
 }
+
+/* Pikmin Location icons for pop-up */
+span.airport {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Airport_icon.png");
+}
+
+span.art-gallery {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Aer_Gallery_icon.png");
+}
+
+span.bakery {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Bakery_icon.png");
+}
+
+span.beach {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Beach_icon.png");
+}
+
+span.burger-place {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Burger_Place_icon.png");
+}
+
+span.bus-stop {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Bus_Stop_icon.png");
+}
+
+span.cafe {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Café_icon.png");
+}
+
+span.clothes-store {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Clothes_Store_icon.png");
+}
+
+span.forest {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Forest_icon.png");
+}
+
+span.hair-salon {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Hair_Salon_icon.png");
+}
+
+span.library {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Library_icon.png");
+}
+
+span.mini-mart {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Mini-mart_icon.png");
+}
+
+span.mountain {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Mountain_icon.png");
+}
+
+span.movie-theater {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Movie_Theater_icon.png");
+}
+
+span.park {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Park_icon.png");
+}
+
+span.pharmacy {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Pharmacy_icon.png");
+}
+
+span.post-office {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Post_Office_icon.png");
+}
+
+span.restaurant {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Restaurant_icon.png");
+}
+
+span.roadside {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Roadside_icon.png");
+}
+
+span.special {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Special_icon.png");
+}
+
+span.station {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Station_icon.png");
+}
+
+span.supermarket {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Supermarket_icon.png");
+}
+
+span.sushi-restaurant {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Sushi_Restaurant_icon.png");
+}
+
+span.sweetshop {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Sweetshop_icon.png");
+}
+
+span.theme-park {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Theme_Park_icon.png");
+}
+
+span.waterside {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Waterside_icon.png");
+}
+
+span.weather {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Weather_icon.png");
+}
+
+span.zoo {
+   display: inline-block;
+   width:   12x;
+   height:  12px;
+   background-image: url("https://raw.githubusercontent.com/jeibbiej/pikmin-location/main/media/Location-Zoo_icon.png");
+}
